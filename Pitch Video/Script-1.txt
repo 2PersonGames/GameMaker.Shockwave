@@ -1,0 +1,38 @@
+In 1987 "Legend of Zelda" was released
+In 1988 "Bubble Bobble" was released
+In 1989 "Mega Man 2" was released
+In 1990 what will be released?
+Shockwave!  A SciFi puzzle game for the nes.
+
+To complete each level, in Shockwave, the player must move blocks about, in order to collect all the crystals, using shockwaves.
+
+Shockwave features:
+Simple and intuitive controls,
+A time limit per level,
+A persistent high score from level to level,
+Health and lives,
+Bonus points for every second under the time limit,
+Two player puzzle solving,
+And a save game feature, allowing for continued play later
+
+Unique to Shockwave is:
+It’s puzzle solving, as there are few puzzle games available on the NES,
+It’s interactive scenery, with destructible and moveable objects,
+Also, unlike most NES games which are aimed at a low skill level, Shockwave challenges the player with it’s 
+unforgiving puzzles and unexpected consequences from player actions.
+
+To develop this game, we ask for
+A staff of seven people
+Seven computers
+A NES for testing
+A generous marketing budget
+And office space for seven
+We predict then a total development cost of One million, six hundred and twenty thousand pounds.
+
+But with sales of 1.5 million in the first two years, a profit of: over twenty million pounds.
+
+But even with a reserved estimate of 500k sales, we calculate a profit of: over five point six million pounds;
+
+Making Shockwave the right game to invest in.
+
+We thankyou for your time.

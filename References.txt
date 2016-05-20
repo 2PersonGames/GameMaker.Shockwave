@@ -1,0 +1,43 @@
+Sprites/Background
+-----------------------------------------------------------------------------------
+
+http://www.mobygames.com/game/nes/shockwave/screenshots
+
+EXCEPT for spritePlayerUp
+
+http://www.youtube.com/watch?v=wo0T50qBFzw (screenshotted)
+
+EXCEPT for shockwaveWave
+
+Daniel Smith, sourced from Game Maker website (www.yoyogames.com/make)
+
+Music
+-----------------------------------------------------------------------------------
+
+Splash screen
+soundSplash
+
+Lulla Bye (by Henry Homesweet)
+
+Pre-level Screen
+soundLoad
+
+Summer Smiles (by Henry Homesweet)
+
+Level
+soundLevel
+
+Tragic but Magic (by Henry Homesweet)
+
+Sound Effects
+-----------------------------------------------------------------------------------
+
+All sounds sourced from Game Maker website (www.yoyogames.com/make)
+
+soundCrystal (user Jrjy2)
+
+soundCollision (user thejonjon)
+
+soundComplete (user thejonjon)
+
+soundDamage (user thejonjon)
